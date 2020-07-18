@@ -1,0 +1,2056 @@
+Array
+(
+    [ID] => 1
+    [COMPANY_TYPE] => 
+    [TITLE] => Малахатка Дмитрий
+    [LOGO] => 
+    [LEAD_ID] => 267
+    [HAS_PHONE] => Y
+    [HAS_EMAIL] => Y
+    [HAS_IMOL] => N
+    [ASSIGNED_BY_ID] => 1
+    [CREATED_BY_ID] => 13
+    [MODIFY_BY_ID] => 13
+    [BANKING_DETAILS] => 
+    [INDUSTRY] => 
+    [REVENUE] => 
+    [CURRENCY_ID] => 
+    [EMPLOYEES] => 
+    [COMMENTS] => 
+    [DATE_CREATE] => 2020-03-11T08:47:02+03:00
+    [DATE_MODIFY] => 2020-03-11T08:47:02+03:00
+    [OPENED] => N
+    [IS_MY_COMPANY] => N
+    [ORIGINATOR_ID] => 
+    [ORIGIN_ID] => 
+    [ORIGIN_VERSION] => 
+    [ADDRESS] => 
+    [ADDRESS_2] => 
+    [ADDRESS_CITY] => 
+    [ADDRESS_POSTAL_CODE] => 
+    [ADDRESS_REGION] => 
+    [ADDRESS_PROVINCE] => 
+    [ADDRESS_COUNTRY] => 
+    [ADDRESS_COUNTRY_CODE] => 
+    [ADDRESS_LEGAL] => 
+    [REG_ADDRESS] => 
+    [REG_ADDRESS_2] => 
+    [REG_ADDRESS_CITY] => 
+    [REG_ADDRESS_POSTAL_CODE] => 
+    [REG_ADDRESS_REGION] => 
+    [REG_ADDRESS_PROVINCE] => 
+    [REG_ADDRESS_COUNTRY] => 
+    [REG_ADDRESS_COUNTRY_CODE] => 
+    [UTM_SOURCE] => 
+    [UTM_MEDIUM] => 
+    [UTM_CAMPAIGN] => 
+    [UTM_CONTENT] => 
+    [UTM_TERM] => 
+    [UF_CRM_1581348291] => 
+    [UF_CRM_1581348521] => 
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 21
+                    [VALUE_TYPE] => WORK
+                    [VALUE] => +7 (977) 887 38 17
+                    [TYPE_ID] => PHONE
+                )
+
+        )
+
+    [EMAIL] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 23
+                    [VALUE_TYPE] => WORK
+                    [VALUE] => malakhatkada@gmail.com
+                    [TYPE_ID] => EMAIL
+                )
+
+        )
+
+)
+Array
+(
+    [meta] => Array
+        (
+            [href] => https://online.moysklad.ru/api/remap/1.1/entity/counterparty/bd64ec08-635b-11ea-0a80-01a30002b2f6
+            [metadataHref] => https://online.moysklad.ru/api/remap/1.1/entity/counterparty/metadata
+            [type] => counterparty
+            [mediaType] => application/json
+            [uuidHref] => https://online.moysklad.ru/app/#company/edit?id=bd64ec08-635b-11ea-0a80-01a30002b2f6
+        )
+
+    [id] => bd64ec08-635b-11ea-0a80-01a30002b2f6
+    [accountId] => a8da53d9-b4fa-11e9-9109-f8fc00001e19
+    [owner] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/employee/a8f82499-b4fa-11e9-912f-f3d400027b8a
+                    [metadataHref] => https://online.moysklad.ru/api/remap/1.1/entity/employee/metadata
+                    [type] => employee
+                    [mediaType] => application/json
+                    [uuidHref] => https://online.moysklad.ru/app/#employee/edit?id=a8f82499-b4fa-11e9-912f-f3d400027b8a
+                )
+
+        )
+
+    [shared] => 
+    [group] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/group/a8dace11-b4fa-11e9-9109-f8fc00001e1a
+                    [metadataHref] => https://online.moysklad.ru/api/remap/1.1/entity/group/metadata
+                    [type] => group
+                    [mediaType] => application/json
+                )
+
+        )
+
+    [version] => 0
+    [updated] => 2020-03-11 08:47:05
+    [name] => Малахатка Дмитрий
+    [externalCode] => BZsa8iGfjWVF976RNUlg13
+    [archived] => 
+    [created] => 2020-03-11 08:47:05
+    [companyType] => legal
+    [legalAddress] => Армения Армения Yerevan Yerevan ул. Маркарян здане 5
+квартира 3
+    [legalAddressFull] => Array
+        (
+            [addInfo] => Армения Армения Yerevan Yerevan ул. Маркарян здане 5
+квартира 3
+        )
+
+    [actualAddress] => Yerevan Armenia Shengavit Yerevan Garegin Njdeh  48/2
+    [actualAddressFull] => Array
+        (
+            [addInfo] => Yerevan Armenia Shengavit Yerevan Garegin Njdeh  48/2
+        )
+
+    [email] => malakhatkada@gmail.com
+    [phone] => +7 (977) 887 38 17
+    [accounts] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/counterparty/bd64ec08-635b-11ea-0a80-01a30002b2f6/accounts
+                    [type] => account
+                    [mediaType] => application/json
+                    [size] => 0
+                    [limit] => 100
+                    [offset] => 0
+                )
+
+        )
+
+    [tags] => Array
+        (
+        )
+
+    [notes] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/counterparty/bd64ec08-635b-11ea-0a80-01a30002b2f6/notes
+                    [type] => note
+                    [mediaType] => application/json
+                    [size] => 0
+                    [limit] => 100
+                    [offset] => 0
+                )
+
+        )
+
+    [state] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/counterparty/metadata/states/a91f3b20-b4fa-11e9-912f-f3d400027bd9
+                    [metadataHref] => https://online.moysklad.ru/api/remap/1.1/entity/counterparty/metadata
+                    [type] => state
+                    [mediaType] => application/json
+                )
+
+        )
+
+    [salesAmount] => 0
+)
+Array
+(
+    [name] => Малахатка Дмитрий
+    [organization] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/organization/a909f9b9-b4fa-11e9-912f-f3d400027bbd
+                    [type] => organization
+                    [mediaType] => application/json
+                )
+
+        )
+
+    [agent] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/counterparty/bd64ec08-635b-11ea-0a80-01a30002b2f6
+                    [type] => counterparty
+                    [mediaType] => application/json
+                )
+
+        )
+
+    [positions] => Array
+        (
+        )
+
+)
+Array
+(
+    [meta] => Array
+        (
+            [href] => https://online.moysklad.ru/api/remap/1.1/entity/customerorder/bde2ba8f-635b-11ea-0a80-041a0002b0c0
+            [metadataHref] => https://online.moysklad.ru/api/remap/1.1/entity/customerorder/metadata
+            [type] => customerorder
+            [mediaType] => application/json
+            [uuidHref] => https://online.moysklad.ru/app/#customerorder/edit?id=bde2ba8f-635b-11ea-0a80-041a0002b0c0
+        )
+
+    [id] => bde2ba8f-635b-11ea-0a80-041a0002b0c0
+    [accountId] => a8da53d9-b4fa-11e9-9109-f8fc00001e19
+    [owner] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/employee/a8f82499-b4fa-11e9-912f-f3d400027b8a
+                    [metadataHref] => https://online.moysklad.ru/api/remap/1.1/entity/employee/metadata
+                    [type] => employee
+                    [mediaType] => application/json
+                    [uuidHref] => https://online.moysklad.ru/app/#employee/edit?id=a8f82499-b4fa-11e9-912f-f3d400027b8a
+                )
+
+        )
+
+    [shared] => 
+    [group] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/group/a8dace11-b4fa-11e9-9109-f8fc00001e1a
+                    [metadataHref] => https://online.moysklad.ru/api/remap/1.1/entity/group/metadata
+                    [type] => group
+                    [mediaType] => application/json
+                )
+
+        )
+
+    [version] => 0
+    [updated] => 2020-03-11 08:47:06
+    [name] => Малахатка Дмитрий
+    [externalCode] => YTDse9EBjXutlhVP0udID1
+    [moment] => 2020-03-11 08:47:00
+    [applicable] => 1
+    [rate] => Array
+        (
+            [currency] => Array
+                (
+                    [meta] => Array
+                        (
+                            [href] => https://online.moysklad.ru/api/remap/1.1/entity/currency/a90bd6ef-b4fa-11e9-912f-f3d400027bc4
+                            [metadataHref] => https://online.moysklad.ru/api/remap/1.1/entity/currency/metadata
+                            [type] => currency
+                            [mediaType] => application/json
+                            [uuidHref] => https://online.moysklad.ru/app/#currency/edit?id=a90bd6ef-b4fa-11e9-912f-f3d400027bc4
+                        )
+
+                )
+
+        )
+
+    [sum] => 0
+    [agent] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/counterparty/bd64ec08-635b-11ea-0a80-01a30002b2f6
+                    [metadataHref] => https://online.moysklad.ru/api/remap/1.1/entity/counterparty/metadata
+                    [type] => counterparty
+                    [mediaType] => application/json
+                    [uuidHref] => https://online.moysklad.ru/app/#company/edit?id=bd64ec08-635b-11ea-0a80-01a30002b2f6
+                )
+
+        )
+
+    [organization] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/organization/a909f9b9-b4fa-11e9-912f-f3d400027bbd
+                    [metadataHref] => https://online.moysklad.ru/api/remap/1.1/entity/organization/metadata
+                    [type] => organization
+                    [mediaType] => application/json
+                    [uuidHref] => https://online.moysklad.ru/app/#mycompany/edit?id=a909f9b9-b4fa-11e9-912f-f3d400027bbd
+                )
+
+        )
+
+    [organizationAccount] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/organization/a909f9b9-b4fa-11e9-912f-f3d400027bbd/accounts/a90a00ab-b4fa-11e9-912f-f3d400027bbe
+                    [type] => account
+                    [mediaType] => application/json
+                )
+
+        )
+
+    [state] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/customerorder/metadata/states/a922c748-b4fa-11e9-912f-f3d400027bdf
+                    [metadataHref] => https://online.moysklad.ru/api/remap/1.1/entity/customerorder/metadata
+                    [type] => state
+                    [mediaType] => application/json
+                )
+
+        )
+
+    [documents] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/customerorder/bde2ba8f-635b-11ea-0a80-041a0002b0c0/documents
+                    [mediaType] => application/json
+                    [size] => 0
+                    [limit] => 100
+                    [offset] => 0
+                )
+
+        )
+
+    [created] => 2020-03-11 08:47:06
+    [positions] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/customerorder/bde2ba8f-635b-11ea-0a80-041a0002b0c0/positions
+                    [type] => customerorderposition
+                    [mediaType] => application/json
+                    [size] => 0
+                    [limit] => 100
+                    [offset] => 0
+                )
+
+        )
+
+    [vatEnabled] => 1
+    [vatIncluded] => 1
+    [vatSum] => 0
+    [payedSum] => 0
+    [shippedSum] => 0
+    [invoicedSum] => 0
+    [reservedSum] => 0
+)
+Array
+(
+    [ID] => 1
+    [COMPANY_TYPE] => 
+    [TITLE] => Малахатка Дмитрий
+    [LOGO] => 
+    [LEAD_ID] => 267
+    [HAS_PHONE] => Y
+    [HAS_EMAIL] => Y
+    [HAS_IMOL] => N
+    [ASSIGNED_BY_ID] => 1
+    [CREATED_BY_ID] => 13
+    [MODIFY_BY_ID] => 1
+    [BANKING_DETAILS] => 
+    [INDUSTRY] => 
+    [REVENUE] => 
+    [CURRENCY_ID] => 
+    [EMPLOYEES] => 
+    [COMMENTS] => 
+    [DATE_CREATE] => 2020-03-11T08:47:02+03:00
+    [DATE_MODIFY] => 2020-03-11T08:47:06+03:00
+    [OPENED] => N
+    [IS_MY_COMPANY] => N
+    [ORIGINATOR_ID] => 
+    [ORIGIN_ID] => 
+    [ORIGIN_VERSION] => 
+    [ADDRESS] => 
+    [ADDRESS_2] => 
+    [ADDRESS_CITY] => 
+    [ADDRESS_POSTAL_CODE] => 
+    [ADDRESS_REGION] => 
+    [ADDRESS_PROVINCE] => 
+    [ADDRESS_COUNTRY] => 
+    [ADDRESS_COUNTRY_CODE] => 
+    [ADDRESS_LEGAL] => 
+    [REG_ADDRESS] => 
+    [REG_ADDRESS_2] => 
+    [REG_ADDRESS_CITY] => 
+    [REG_ADDRESS_POSTAL_CODE] => 
+    [REG_ADDRESS_REGION] => 
+    [REG_ADDRESS_PROVINCE] => 
+    [REG_ADDRESS_COUNTRY] => 
+    [REG_ADDRESS_COUNTRY_CODE] => 
+    [UTM_SOURCE] => 
+    [UTM_MEDIUM] => 
+    [UTM_CAMPAIGN] => 
+    [UTM_CONTENT] => 
+    [UTM_TERM] => 
+    [UF_CRM_1581348291] => bd64ec08-635b-11ea-0a80-01a30002b2f6
+    [UF_CRM_1581348521] => a8da53d9-b4fa-11e9-9109-f8fc00001e19
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 21
+                    [VALUE_TYPE] => WORK
+                    [VALUE] => +7 (977) 887 38 17
+                    [TYPE_ID] => PHONE
+                )
+
+        )
+
+    [EMAIL] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 23
+                    [VALUE_TYPE] => WORK
+                    [VALUE] => malakhatkada@gmail.com
+                    [TYPE_ID] => EMAIL
+                )
+
+        )
+
+)
+Array
+(
+    [meta] => Array
+        (
+            [href] => https://online.moysklad.ru/api/remap/1.1/entity/counterparty/bd64ec08-635b-11ea-0a80-01a30002b2f6
+            [metadataHref] => https://online.moysklad.ru/api/remap/1.1/entity/counterparty/metadata
+            [type] => counterparty
+            [mediaType] => application/json
+            [uuidHref] => https://online.moysklad.ru/app/#company/edit?id=bd64ec08-635b-11ea-0a80-01a30002b2f6
+        )
+
+    [id] => bd64ec08-635b-11ea-0a80-01a30002b2f6
+    [accountId] => a8da53d9-b4fa-11e9-9109-f8fc00001e19
+    [owner] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/employee/a8f82499-b4fa-11e9-912f-f3d400027b8a
+                    [metadataHref] => https://online.moysklad.ru/api/remap/1.1/entity/employee/metadata
+                    [type] => employee
+                    [mediaType] => application/json
+                    [uuidHref] => https://online.moysklad.ru/app/#employee/edit?id=a8f82499-b4fa-11e9-912f-f3d400027b8a
+                )
+
+        )
+
+    [shared] => 
+    [group] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/group/a8dace11-b4fa-11e9-9109-f8fc00001e1a
+                    [metadataHref] => https://online.moysklad.ru/api/remap/1.1/entity/group/metadata
+                    [type] => group
+                    [mediaType] => application/json
+                )
+
+        )
+
+    [version] => 0
+    [updated] => 2020-03-11 08:47:05
+    [name] => Малахатка Дмитрий
+    [externalCode] => BZsa8iGfjWVF976RNUlg13
+    [archived] => 
+    [created] => 2020-03-11 08:47:05
+    [companyType] => legal
+    [legalAddress] => Армения Армения Yerevan Yerevan ул. Маркарян здане 5
+квартира 3
+    [legalAddressFull] => Array
+        (
+            [addInfo] => Армения Армения Yerevan Yerevan ул. Маркарян здане 5
+квартира 3
+        )
+
+    [actualAddress] => Yerevan Armenia Shengavit Yerevan Garegin Njdeh  48/2
+    [actualAddressFull] => Array
+        (
+            [addInfo] => Yerevan Armenia Shengavit Yerevan Garegin Njdeh  48/2
+        )
+
+    [email] => malakhatkada@gmail.com
+    [phone] => +7 (977) 887 38 17
+    [accounts] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/counterparty/bd64ec08-635b-11ea-0a80-01a30002b2f6/accounts
+                    [type] => account
+                    [mediaType] => application/json
+                    [size] => 0
+                    [limit] => 100
+                    [offset] => 0
+                )
+
+        )
+
+    [tags] => Array
+        (
+        )
+
+    [notes] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/counterparty/bd64ec08-635b-11ea-0a80-01a30002b2f6/notes
+                    [type] => note
+                    [mediaType] => application/json
+                    [size] => 0
+                    [limit] => 100
+                    [offset] => 0
+                )
+
+        )
+
+    [state] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/counterparty/metadata/states/a91f3b20-b4fa-11e9-912f-f3d400027bd9
+                    [metadataHref] => https://online.moysklad.ru/api/remap/1.1/entity/counterparty/metadata
+                    [type] => state
+                    [mediaType] => application/json
+                )
+
+        )
+
+    [salesAmount] => 0
+)
+Array
+(
+    [ID] => 3
+    [COMPANY_TYPE] => 
+    [TITLE] => Малахатка2 Дмитрий2
+    [LOGO] => 
+    [LEAD_ID] => 271
+    [HAS_PHONE] => Y
+    [HAS_EMAIL] => Y
+    [HAS_IMOL] => N
+    [ASSIGNED_BY_ID] => 1
+    [CREATED_BY_ID] => 13
+    [MODIFY_BY_ID] => 13
+    [BANKING_DETAILS] => 
+    [INDUSTRY] => 
+    [REVENUE] => 
+    [CURRENCY_ID] => 
+    [EMPLOYEES] => 
+    [COMMENTS] => 
+    [DATE_CREATE] => 2020-03-11T11:43:46+03:00
+    [DATE_MODIFY] => 2020-03-11T11:43:46+03:00
+    [OPENED] => N
+    [IS_MY_COMPANY] => N
+    [ORIGINATOR_ID] => 
+    [ORIGIN_ID] => 
+    [ORIGIN_VERSION] => 
+    [ADDRESS] => 
+    [ADDRESS_2] => 
+    [ADDRESS_CITY] => 
+    [ADDRESS_POSTAL_CODE] => 
+    [ADDRESS_REGION] => 
+    [ADDRESS_PROVINCE] => 
+    [ADDRESS_COUNTRY] => 
+    [ADDRESS_COUNTRY_CODE] => 
+    [ADDRESS_LEGAL] => 
+    [REG_ADDRESS] => 
+    [REG_ADDRESS_2] => 
+    [REG_ADDRESS_CITY] => 
+    [REG_ADDRESS_POSTAL_CODE] => 
+    [REG_ADDRESS_REGION] => 
+    [REG_ADDRESS_PROVINCE] => 
+    [REG_ADDRESS_COUNTRY] => 
+    [REG_ADDRESS_COUNTRY_CODE] => 
+    [UTM_SOURCE] => 
+    [UTM_MEDIUM] => 
+    [UTM_CAMPAIGN] => 
+    [UTM_CONTENT] => 
+    [UTM_TERM] => 
+    [UF_CRM_1581348291] => 
+    [UF_CRM_1581348521] => 
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 37
+                    [VALUE_TYPE] => WORK
+                    [VALUE] => +7 (977) 887 38 17
+                    [TYPE_ID] => PHONE
+                )
+
+        )
+
+    [EMAIL] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 39
+                    [VALUE_TYPE] => WORK
+                    [VALUE] => malahatkadima@yandex.ru
+                    [TYPE_ID] => EMAIL
+                )
+
+        )
+
+)
+Array
+(
+    [meta] => Array
+        (
+            [href] => https://online.moysklad.ru/api/remap/1.1/entity/counterparty/6d9467a3-6374-11ea-0a80-055200046ca8
+            [metadataHref] => https://online.moysklad.ru/api/remap/1.1/entity/counterparty/metadata
+            [type] => counterparty
+            [mediaType] => application/json
+            [uuidHref] => https://online.moysklad.ru/app/#company/edit?id=6d9467a3-6374-11ea-0a80-055200046ca8
+        )
+
+    [id] => 6d9467a3-6374-11ea-0a80-055200046ca8
+    [accountId] => a8da53d9-b4fa-11e9-9109-f8fc00001e19
+    [owner] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/employee/a8f82499-b4fa-11e9-912f-f3d400027b8a
+                    [metadataHref] => https://online.moysklad.ru/api/remap/1.1/entity/employee/metadata
+                    [type] => employee
+                    [mediaType] => application/json
+                    [uuidHref] => https://online.moysklad.ru/app/#employee/edit?id=a8f82499-b4fa-11e9-912f-f3d400027b8a
+                )
+
+        )
+
+    [shared] => 
+    [group] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/group/a8dace11-b4fa-11e9-9109-f8fc00001e1a
+                    [metadataHref] => https://online.moysklad.ru/api/remap/1.1/entity/group/metadata
+                    [type] => group
+                    [mediaType] => application/json
+                )
+
+        )
+
+    [version] => 0
+    [updated] => 2020-03-11 11:43:49
+    [name] => Малахатка2 Дмитрий2
+    [externalCode] => dWfctYCeiYXJpvIoBBQ713
+    [archived] => 
+    [created] => 2020-03-11 11:43:49
+    [companyType] => legal
+    [legalAddress] => Yerevan Армения Arabkir Arabkir N. Tigranyan 10 bn. 54
+    [legalAddressFull] => Array
+        (
+            [addInfo] => Yerevan Армения Arabkir Arabkir N. Tigranyan 10 bn. 54
+        )
+
+    [actualAddress] => Армения Армения Yerevan Yerevan Улица, дом, корпус, строение	
+N. Tigranyan 10 bn. 54
+Квартира / офис	
+Город	
+Yerevan
+Район	
+Arabkir
+Область	
+Arabkir
+Почтовый индекс	
+0014
+Страна	
+Армения
+ 10
+    [actualAddressFull] => Array
+        (
+            [addInfo] => Армения Армения Yerevan Yerevan Улица, дом, корпус, строение	
+N. Tigranyan 10 bn. 54
+Квартира / офис	
+Город	
+Yerevan
+Район	
+Arabkir
+Область	
+Arabkir
+Почтовый индекс	
+0014
+Страна	
+Армения
+ 10
+        )
+
+    [email] => malahatkadima@yandex.ru
+    [phone] => +7 (977) 887 38 17
+    [accounts] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/counterparty/6d9467a3-6374-11ea-0a80-055200046ca8/accounts
+                    [type] => account
+                    [mediaType] => application/json
+                    [size] => 0
+                    [limit] => 100
+                    [offset] => 0
+                )
+
+        )
+
+    [tags] => Array
+        (
+        )
+
+    [notes] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/counterparty/6d9467a3-6374-11ea-0a80-055200046ca8/notes
+                    [type] => note
+                    [mediaType] => application/json
+                    [size] => 0
+                    [limit] => 100
+                    [offset] => 0
+                )
+
+        )
+
+    [state] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/counterparty/metadata/states/a91f3b20-b4fa-11e9-912f-f3d400027bd9
+                    [metadataHref] => https://online.moysklad.ru/api/remap/1.1/entity/counterparty/metadata
+                    [type] => state
+                    [mediaType] => application/json
+                )
+
+        )
+
+    [salesAmount] => 0
+)
+Array
+(
+    [name] => Малахатка2 Дмитрий2
+    [organization] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/organization/a909f9b9-b4fa-11e9-912f-f3d400027bbd
+                    [type] => organization
+                    [mediaType] => application/json
+                )
+
+        )
+
+    [agent] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/counterparty/6d9467a3-6374-11ea-0a80-055200046ca8
+                    [type] => counterparty
+                    [mediaType] => application/json
+                )
+
+        )
+
+    [positions] => Array
+        (
+        )
+
+)
+Array
+(
+    [meta] => Array
+        (
+            [href] => https://online.moysklad.ru/api/remap/1.1/entity/customerorder/6e165d56-6374-11ea-0a80-03eb00045f93
+            [metadataHref] => https://online.moysklad.ru/api/remap/1.1/entity/customerorder/metadata
+            [type] => customerorder
+            [mediaType] => application/json
+            [uuidHref] => https://online.moysklad.ru/app/#customerorder/edit?id=6e165d56-6374-11ea-0a80-03eb00045f93
+        )
+
+    [id] => 6e165d56-6374-11ea-0a80-03eb00045f93
+    [accountId] => a8da53d9-b4fa-11e9-9109-f8fc00001e19
+    [owner] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/employee/a8f82499-b4fa-11e9-912f-f3d400027b8a
+                    [metadataHref] => https://online.moysklad.ru/api/remap/1.1/entity/employee/metadata
+                    [type] => employee
+                    [mediaType] => application/json
+                    [uuidHref] => https://online.moysklad.ru/app/#employee/edit?id=a8f82499-b4fa-11e9-912f-f3d400027b8a
+                )
+
+        )
+
+    [shared] => 
+    [group] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/group/a8dace11-b4fa-11e9-9109-f8fc00001e1a
+                    [metadataHref] => https://online.moysklad.ru/api/remap/1.1/entity/group/metadata
+                    [type] => group
+                    [mediaType] => application/json
+                )
+
+        )
+
+    [version] => 0
+    [updated] => 2020-03-11 11:43:50
+    [name] => Малахатка2 Дмитрий2
+    [externalCode] => yfQPVNObiagksgPYfaeHm3
+    [moment] => 2020-03-11 11:43:00
+    [applicable] => 1
+    [rate] => Array
+        (
+            [currency] => Array
+                (
+                    [meta] => Array
+                        (
+                            [href] => https://online.moysklad.ru/api/remap/1.1/entity/currency/a90bd6ef-b4fa-11e9-912f-f3d400027bc4
+                            [metadataHref] => https://online.moysklad.ru/api/remap/1.1/entity/currency/metadata
+                            [type] => currency
+                            [mediaType] => application/json
+                            [uuidHref] => https://online.moysklad.ru/app/#currency/edit?id=a90bd6ef-b4fa-11e9-912f-f3d400027bc4
+                        )
+
+                )
+
+        )
+
+    [sum] => 0
+    [agent] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/counterparty/6d9467a3-6374-11ea-0a80-055200046ca8
+                    [metadataHref] => https://online.moysklad.ru/api/remap/1.1/entity/counterparty/metadata
+                    [type] => counterparty
+                    [mediaType] => application/json
+                    [uuidHref] => https://online.moysklad.ru/app/#company/edit?id=6d9467a3-6374-11ea-0a80-055200046ca8
+                )
+
+        )
+
+    [organization] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/organization/a909f9b9-b4fa-11e9-912f-f3d400027bbd
+                    [metadataHref] => https://online.moysklad.ru/api/remap/1.1/entity/organization/metadata
+                    [type] => organization
+                    [mediaType] => application/json
+                    [uuidHref] => https://online.moysklad.ru/app/#mycompany/edit?id=a909f9b9-b4fa-11e9-912f-f3d400027bbd
+                )
+
+        )
+
+    [organizationAccount] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/organization/a909f9b9-b4fa-11e9-912f-f3d400027bbd/accounts/a90a00ab-b4fa-11e9-912f-f3d400027bbe
+                    [type] => account
+                    [mediaType] => application/json
+                )
+
+        )
+
+    [state] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/customerorder/metadata/states/a922c748-b4fa-11e9-912f-f3d400027bdf
+                    [metadataHref] => https://online.moysklad.ru/api/remap/1.1/entity/customerorder/metadata
+                    [type] => state
+                    [mediaType] => application/json
+                )
+
+        )
+
+    [documents] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/customerorder/6e165d56-6374-11ea-0a80-03eb00045f93/documents
+                    [mediaType] => application/json
+                    [size] => 0
+                    [limit] => 100
+                    [offset] => 0
+                )
+
+        )
+
+    [created] => 2020-03-11 11:43:50
+    [positions] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/customerorder/6e165d56-6374-11ea-0a80-03eb00045f93/positions
+                    [type] => customerorderposition
+                    [mediaType] => application/json
+                    [size] => 0
+                    [limit] => 100
+                    [offset] => 0
+                )
+
+        )
+
+    [vatEnabled] => 1
+    [vatIncluded] => 1
+    [vatSum] => 0
+    [payedSum] => 0
+    [shippedSum] => 0
+    [invoicedSum] => 0
+    [reservedSum] => 0
+)
+Array
+(
+    [ID] => 3
+    [COMPANY_TYPE] => 
+    [TITLE] => Малахатка2 Дмитрий2
+    [LOGO] => 
+    [LEAD_ID] => 271
+    [HAS_PHONE] => Y
+    [HAS_EMAIL] => Y
+    [HAS_IMOL] => N
+    [ASSIGNED_BY_ID] => 1
+    [CREATED_BY_ID] => 13
+    [MODIFY_BY_ID] => 1
+    [BANKING_DETAILS] => 
+    [INDUSTRY] => 
+    [REVENUE] => 
+    [CURRENCY_ID] => 
+    [EMPLOYEES] => 
+    [COMMENTS] => 
+    [DATE_CREATE] => 2020-03-11T11:43:46+03:00
+    [DATE_MODIFY] => 2020-03-11T11:43:49+03:00
+    [OPENED] => N
+    [IS_MY_COMPANY] => N
+    [ORIGINATOR_ID] => 
+    [ORIGIN_ID] => 
+    [ORIGIN_VERSION] => 
+    [ADDRESS] => 
+    [ADDRESS_2] => 
+    [ADDRESS_CITY] => 
+    [ADDRESS_POSTAL_CODE] => 
+    [ADDRESS_REGION] => 
+    [ADDRESS_PROVINCE] => 
+    [ADDRESS_COUNTRY] => 
+    [ADDRESS_COUNTRY_CODE] => 
+    [ADDRESS_LEGAL] => 
+    [REG_ADDRESS] => 
+    [REG_ADDRESS_2] => 
+    [REG_ADDRESS_CITY] => 
+    [REG_ADDRESS_POSTAL_CODE] => 
+    [REG_ADDRESS_REGION] => 
+    [REG_ADDRESS_PROVINCE] => 
+    [REG_ADDRESS_COUNTRY] => 
+    [REG_ADDRESS_COUNTRY_CODE] => 
+    [UTM_SOURCE] => 
+    [UTM_MEDIUM] => 
+    [UTM_CAMPAIGN] => 
+    [UTM_CONTENT] => 
+    [UTM_TERM] => 
+    [UF_CRM_1581348291] => 6d9467a3-6374-11ea-0a80-055200046ca8
+    [UF_CRM_1581348521] => a8da53d9-b4fa-11e9-9109-f8fc00001e19
+    [PHONE] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 37
+                    [VALUE_TYPE] => WORK
+                    [VALUE] => +7 (977) 887 38 17
+                    [TYPE_ID] => PHONE
+                )
+
+        )
+
+    [EMAIL] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 39
+                    [VALUE_TYPE] => WORK
+                    [VALUE] => malahatkadima@yandex.ru
+                    [TYPE_ID] => EMAIL
+                )
+
+        )
+
+)
+Array
+(
+    [meta] => Array
+        (
+            [href] => https://online.moysklad.ru/api/remap/1.1/entity/counterparty/6d9467a3-6374-11ea-0a80-055200046ca8
+            [metadataHref] => https://online.moysklad.ru/api/remap/1.1/entity/counterparty/metadata
+            [type] => counterparty
+            [mediaType] => application/json
+            [uuidHref] => https://online.moysklad.ru/app/#company/edit?id=6d9467a3-6374-11ea-0a80-055200046ca8
+        )
+
+    [id] => 6d9467a3-6374-11ea-0a80-055200046ca8
+    [accountId] => a8da53d9-b4fa-11e9-9109-f8fc00001e19
+    [owner] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/employee/a8f82499-b4fa-11e9-912f-f3d400027b8a
+                    [metadataHref] => https://online.moysklad.ru/api/remap/1.1/entity/employee/metadata
+                    [type] => employee
+                    [mediaType] => application/json
+                    [uuidHref] => https://online.moysklad.ru/app/#employee/edit?id=a8f82499-b4fa-11e9-912f-f3d400027b8a
+                )
+
+        )
+
+    [shared] => 
+    [group] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/group/a8dace11-b4fa-11e9-9109-f8fc00001e1a
+                    [metadataHref] => https://online.moysklad.ru/api/remap/1.1/entity/group/metadata
+                    [type] => group
+                    [mediaType] => application/json
+                )
+
+        )
+
+    [version] => 0
+    [updated] => 2020-03-11 11:43:49
+    [name] => Малахатка2 Дмитрий2
+    [externalCode] => dWfctYCeiYXJpvIoBBQ713
+    [archived] => 
+    [created] => 2020-03-11 11:43:49
+    [companyType] => legal
+    [legalAddress] => Yerevan Армения Arabkir Arabkir N. Tigranyan 10 bn. 54
+    [legalAddressFull] => Array
+        (
+            [addInfo] => Yerevan Армения Arabkir Arabkir N. Tigranyan 10 bn. 54
+        )
+
+    [actualAddress] => Армения Армения Yerevan Yerevan Улица, дом, корпус, строение	
+N. Tigranyan 10 bn. 54
+Квартира / офис	
+Город	
+Yerevan
+Район	
+Arabkir
+Область	
+Arabkir
+Почтовый индекс	
+0014
+Страна	
+Армения
+ 10
+    [actualAddressFull] => Array
+        (
+            [addInfo] => Армения Армения Yerevan Yerevan Улица, дом, корпус, строение	
+N. Tigranyan 10 bn. 54
+Квартира / офис	
+Город	
+Yerevan
+Район	
+Arabkir
+Область	
+Arabkir
+Почтовый индекс	
+0014
+Страна	
+Армения
+ 10
+        )
+
+    [email] => malahatkadima@yandex.ru
+    [phone] => +7 (977) 887 38 17
+    [accounts] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/counterparty/6d9467a3-6374-11ea-0a80-055200046ca8/accounts
+                    [type] => account
+                    [mediaType] => application/json
+                    [size] => 0
+                    [limit] => 100
+                    [offset] => 0
+                )
+
+        )
+
+    [tags] => Array
+        (
+        )
+
+    [notes] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/counterparty/6d9467a3-6374-11ea-0a80-055200046ca8/notes
+                    [type] => note
+                    [mediaType] => application/json
+                    [size] => 0
+                    [limit] => 100
+                    [offset] => 0
+                )
+
+        )
+
+    [state] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/counterparty/metadata/states/a91f3b20-b4fa-11e9-912f-f3d400027bd9
+                    [metadataHref] => https://online.moysklad.ru/api/remap/1.1/entity/counterparty/metadata
+                    [type] => state
+                    [mediaType] => application/json
+                )
+
+        )
+
+    [salesAmount] => 0
+)
+Array
+(
+    [name] => Сделка #5
+    [organization] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/organization/a909f9b9-b4fa-11e9-912f-f3d400027bbd
+                    [type] => organization
+                    [mediaType] => application/json
+                )
+
+        )
+
+    [agent] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/counterparty/
+                    [type] => counterparty
+                    [mediaType] => application/json
+                )
+
+        )
+
+    [positions] => Array
+        (
+        )
+
+)
+Array
+(
+    [errors] => Array
+        (
+            [0] => Array
+                (
+                    [error] => Ошибка формата: неправильное значение href для meta поля 'agent'
+                    [code] => 2013
+                    [moreInfo] => https://online.moysklad.ru/api/remap/1.1/doc#обработка-ошибок-2013
+                    [line] => 1
+                    [column] => 239
+                )
+
+        )
+
+)
+Array
+(
+    [name] => Test
+    [organization] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/organization/a909f9b9-b4fa-11e9-912f-f3d400027bbd
+                    [type] => organization
+                    [mediaType] => application/json
+                )
+
+        )
+
+    [agent] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/counterparty/
+                    [type] => counterparty
+                    [mediaType] => application/json
+                )
+
+        )
+
+    [positions] => Array
+        (
+        )
+
+)
+Array
+(
+    [errors] => Array
+        (
+            [0] => Array
+                (
+                    [error] => Ошибка формата: неправильное значение href для meta поля 'agent'
+                    [code] => 2013
+                    [moreInfo] => https://online.moysklad.ru/api/remap/1.1/doc#обработка-ошибок-2013
+                    [line] => 1
+                    [column] => 228
+                )
+
+        )
+
+)
+Array
+(
+    [name] => Test
+    [organization] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/organization/a909f9b9-b4fa-11e9-912f-f3d400027bbd
+                    [type] => organization
+                    [mediaType] => application/json
+                )
+
+        )
+
+    [agent] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/counterparty/
+                    [type] => counterparty
+                    [mediaType] => application/json
+                )
+
+        )
+
+    [positions] => Array
+        (
+        )
+
+)
+Array
+(
+    [errors] => Array
+        (
+            [0] => Array
+                (
+                    [error] => Ошибка формата: неправильное значение href для meta поля 'agent'
+                    [code] => 2013
+                    [moreInfo] => https://online.moysklad.ru/api/remap/1.1/doc#обработка-ошибок-2013
+                    [line] => 1
+                    [column] => 228
+                )
+
+        )
+
+)
+Array
+(
+    [name] => Сделка #5
+    [organization] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/organization/a909f9b9-b4fa-11e9-912f-f3d400027bbd
+                    [type] => organization
+                    [mediaType] => application/json
+                )
+
+        )
+
+    [agent] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/counterparty/
+                    [type] => counterparty
+                    [mediaType] => application/json
+                )
+
+        )
+
+    [positions] => Array
+        (
+        )
+
+)
+Array
+(
+    [errors] => Array
+        (
+            [0] => Array
+                (
+                    [error] => Ошибка формата: неправильное значение href для meta поля 'agent'
+                    [code] => 2013
+                    [moreInfo] => https://online.moysklad.ru/api/remap/1.1/doc#обработка-ошибок-2013
+                    [line] => 1
+                    [column] => 239
+                )
+
+        )
+
+)
+Array
+(
+    [name] => Сделка #7
+    [organization] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/organization/a909f9b9-b4fa-11e9-912f-f3d400027bbd
+                    [type] => organization
+                    [mediaType] => application/json
+                )
+
+        )
+
+    [agent] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/counterparty/
+                    [type] => counterparty
+                    [mediaType] => application/json
+                )
+
+        )
+
+    [positions] => Array
+        (
+        )
+
+)
+Array
+(
+    [name] => Сделка #11
+    [organization] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/organization/a909f9b9-b4fa-11e9-912f-f3d400027bbd
+                    [type] => organization
+                    [mediaType] => application/json
+                )
+
+        )
+
+    [agent] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/counterparty/
+                    [type] => counterparty
+                    [mediaType] => application/json
+                )
+
+        )
+
+    [positions] => Array
+        (
+        )
+
+)
+Array
+(
+    [errors] => Array
+        (
+            [0] => Array
+                (
+                    [error] => Ошибка формата: неправильное значение href для meta поля 'agent'
+                    [code] => 2013
+                    [moreInfo] => https://online.moysklad.ru/api/remap/1.1/doc#обработка-ошибок-2013
+                    [line] => 1
+                    [column] => 239
+                )
+
+        )
+
+)
+Array
+(
+    [errors] => Array
+        (
+            [0] => Array
+                (
+                    [error] => Ошибка формата: неправильное значение href для meta поля 'agent'
+                    [code] => 2013
+                    [moreInfo] => https://online.moysklad.ru/api/remap/1.1/doc#обработка-ошибок-2013
+                    [line] => 1
+                    [column] => 240
+                )
+
+        )
+
+)
+Array
+(
+    [name] => Сделка #9
+    [organization] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/organization/a909f9b9-b4fa-11e9-912f-f3d400027bbd
+                    [type] => organization
+                    [mediaType] => application/json
+                )
+
+        )
+
+    [agent] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/counterparty/
+                    [type] => counterparty
+                    [mediaType] => application/json
+                )
+
+        )
+
+    [positions] => Array
+        (
+        )
+
+)
+Array
+(
+    [errors] => Array
+        (
+            [0] => Array
+                (
+                    [error] => Ошибка формата: неправильное значение href для meta поля 'agent'
+                    [code] => 2013
+                    [moreInfo] => https://online.moysklad.ru/api/remap/1.1/doc#обработка-ошибок-2013
+                    [line] => 1
+                    [column] => 239
+                )
+
+        )
+
+)
+Array
+(
+    [name] => Сделка #13
+    [organization] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/organization/a909f9b9-b4fa-11e9-912f-f3d400027bbd
+                    [type] => organization
+                    [mediaType] => application/json
+                )
+
+        )
+
+    [agent] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/counterparty/
+                    [type] => counterparty
+                    [mediaType] => application/json
+                )
+
+        )
+
+    [positions] => Array
+        (
+        )
+
+)
+Array
+(
+    [errors] => Array
+        (
+            [0] => Array
+                (
+                    [error] => Ошибка формата: неправильное значение href для meta поля 'agent'
+                    [code] => 2013
+                    [moreInfo] => https://online.moysklad.ru/api/remap/1.1/doc#обработка-ошибок-2013
+                    [line] => 1
+                    [column] => 240
+                )
+
+        )
+
+)
+Array
+(
+    [name] => Рашид
+    [organization] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/organization/a909f9b9-b4fa-11e9-912f-f3d400027bbd
+                    [type] => organization
+                    [mediaType] => application/json
+                )
+
+        )
+
+    [agent] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/counterparty/
+                    [type] => counterparty
+                    [mediaType] => application/json
+                )
+
+        )
+
+    [positions] => Array
+        (
+        )
+
+)
+Array
+(
+    [errors] => Array
+        (
+            [0] => Array
+                (
+                    [error] => Ошибка формата: неправильное значение href для meta поля 'agent'
+                    [code] => 2013
+                    [moreInfo] => https://online.moysklad.ru/api/remap/1.1/doc#обработка-ошибок-2013
+                    [line] => 1
+                    [column] => 234
+                )
+
+        )
+
+)
+Array
+(
+    [name] => Рашид
+    [organization] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/organization/a909f9b9-b4fa-11e9-912f-f3d400027bbd
+                    [type] => organization
+                    [mediaType] => application/json
+                )
+
+        )
+
+    [agent] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/counterparty/
+                    [type] => counterparty
+                    [mediaType] => application/json
+                )
+
+        )
+
+    [positions] => Array
+        (
+        )
+
+)
+Array
+(
+    [errors] => Array
+        (
+            [0] => Array
+                (
+                    [error] => Ошибка формата: неправильное значение href для meta поля 'agent'
+                    [code] => 2013
+                    [moreInfo] => https://online.moysklad.ru/api/remap/1.1/doc#обработка-ошибок-2013
+                    [line] => 1
+                    [column] => 234
+                )
+
+        )
+
+)
+Array
+(
+    [name] => Рашид
+    [organization] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/organization/a909f9b9-b4fa-11e9-912f-f3d400027bbd
+                    [type] => organization
+                    [mediaType] => application/json
+                )
+
+        )
+
+    [agent] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/counterparty/
+                    [type] => counterparty
+                    [mediaType] => application/json
+                )
+
+        )
+
+    [positions] => Array
+        (
+        )
+
+)
+Array
+(
+    [name] => Рашид
+    [organization] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/organization/a909f9b9-b4fa-11e9-912f-f3d400027bbd
+                    [type] => organization
+                    [mediaType] => application/json
+                )
+
+        )
+
+    [agent] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/counterparty/
+                    [type] => counterparty
+                    [mediaType] => application/json
+                )
+
+        )
+
+    [positions] => Array
+        (
+        )
+
+)
+Array
+(
+    [errors] => Array
+        (
+            [0] => Array
+                (
+                    [error] => Ошибка формата: неправильное значение href для meta поля 'agent'
+                    [code] => 2013
+                    [moreInfo] => https://online.moysklad.ru/api/remap/1.1/doc#обработка-ошибок-2013
+                    [line] => 1
+                    [column] => 234
+                )
+
+        )
+
+)
+Array
+(
+    [errors] => Array
+        (
+            [0] => Array
+                (
+                    [error] => Ошибка формата: неправильное значение href для meta поля 'agent'
+                    [code] => 2013
+                    [moreInfo] => https://online.moysklad.ru/api/remap/1.1/doc#обработка-ошибок-2013
+                    [line] => 1
+                    [column] => 234
+                )
+
+        )
+
+)
+Array
+(
+    [name] => Рашид
+    [organization] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/organization/a909f9b9-b4fa-11e9-912f-f3d400027bbd
+                    [type] => organization
+                    [mediaType] => application/json
+                )
+
+        )
+
+    [agent] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/counterparty/
+                    [type] => counterparty
+                    [mediaType] => application/json
+                )
+
+        )
+
+    [positions] => Array
+        (
+        )
+
+)
+Array
+(
+    [errors] => Array
+        (
+            [0] => Array
+                (
+                    [error] => Ошибка формата: неправильное значение href для meta поля 'agent'
+                    [code] => 2013
+                    [moreInfo] => https://online.moysklad.ru/api/remap/1.1/doc#обработка-ошибок-2013
+                    [line] => 1
+                    [column] => 234
+                )
+
+        )
+
+)
+Array
+(
+    [name] => Рашид
+    [organization] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/organization/a909f9b9-b4fa-11e9-912f-f3d400027bbd
+                    [type] => organization
+                    [mediaType] => application/json
+                )
+
+        )
+
+    [agent] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/counterparty/
+                    [type] => counterparty
+                    [mediaType] => application/json
+                )
+
+        )
+
+    [positions] => Array
+        (
+        )
+
+)
+Array
+(
+    [name] => Рашид
+    [organization] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/organization/a909f9b9-b4fa-11e9-912f-f3d400027bbd
+                    [type] => organization
+                    [mediaType] => application/json
+                )
+
+        )
+
+    [agent] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/counterparty/
+                    [type] => counterparty
+                    [mediaType] => application/json
+                )
+
+        )
+
+    [positions] => Array
+        (
+        )
+
+)
+Array
+(
+    [errors] => Array
+        (
+            [0] => Array
+                (
+                    [error] => Ошибка формата: неправильное значение href для meta поля 'agent'
+                    [code] => 2013
+                    [moreInfo] => https://online.moysklad.ru/api/remap/1.1/doc#обработка-ошибок-2013
+                    [line] => 1
+                    [column] => 234
+                )
+
+        )
+
+)
+Array
+(
+    [errors] => Array
+        (
+            [0] => Array
+                (
+                    [error] => Ошибка формата: неправильное значение href для meta поля 'agent'
+                    [code] => 2013
+                    [moreInfo] => https://online.moysklad.ru/api/remap/1.1/doc#обработка-ошибок-2013
+                    [line] => 1
+                    [column] => 234
+                )
+
+        )
+
+)
+Array
+(
+    [name] => Рашид
+    [organization] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/organization/a909f9b9-b4fa-11e9-912f-f3d400027bbd
+                    [type] => organization
+                    [mediaType] => application/json
+                )
+
+        )
+
+    [agent] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/counterparty/
+                    [type] => counterparty
+                    [mediaType] => application/json
+                )
+
+        )
+
+    [positions] => Array
+        (
+        )
+
+)
+Array
+(
+    [name] => Рашид
+    [organization] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/organization/a909f9b9-b4fa-11e9-912f-f3d400027bbd
+                    [type] => organization
+                    [mediaType] => application/json
+                )
+
+        )
+
+    [agent] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/counterparty/
+                    [type] => counterparty
+                    [mediaType] => application/json
+                )
+
+        )
+
+    [positions] => Array
+        (
+        )
+
+)
+Array
+(
+    [errors] => Array
+        (
+            [0] => Array
+                (
+                    [error] => Ошибка формата: неправильное значение href для meta поля 'agent'
+                    [code] => 2013
+                    [moreInfo] => https://online.moysklad.ru/api/remap/1.1/doc#обработка-ошибок-2013
+                    [line] => 1
+                    [column] => 234
+                )
+
+        )
+
+)
+Array
+(
+    [errors] => Array
+        (
+            [0] => Array
+                (
+                    [error] => Ошибка формата: неправильное значение href для meta поля 'agent'
+                    [code] => 2013
+                    [moreInfo] => https://online.moysklad.ru/api/remap/1.1/doc#обработка-ошибок-2013
+                    [line] => 1
+                    [column] => 234
+                )
+
+        )
+
+)
+Array
+(
+    [name] => Рашид
+    [organization] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/organization/a909f9b9-b4fa-11e9-912f-f3d400027bbd
+                    [type] => organization
+                    [mediaType] => application/json
+                )
+
+        )
+
+    [agent] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/counterparty/
+                    [type] => counterparty
+                    [mediaType] => application/json
+                )
+
+        )
+
+    [positions] => Array
+        (
+        )
+
+)
+Array
+(
+    [errors] => Array
+        (
+            [0] => Array
+                (
+                    [error] => Ошибка формата: неправильное значение href для meta поля 'agent'
+                    [code] => 2013
+                    [moreInfo] => https://online.moysklad.ru/api/remap/1.1/doc#обработка-ошибок-2013
+                    [line] => 1
+                    [column] => 234
+                )
+
+        )
+
+)
+Array
+(
+    [name] => Рашид
+    [organization] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/organization/a909f9b9-b4fa-11e9-912f-f3d400027bbd
+                    [type] => organization
+                    [mediaType] => application/json
+                )
+
+        )
+
+    [agent] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/counterparty/
+                    [type] => counterparty
+                    [mediaType] => application/json
+                )
+
+        )
+
+    [positions] => Array
+        (
+        )
+
+)
+Array
+(
+    [errors] => Array
+        (
+            [0] => Array
+                (
+                    [error] => Ошибка формата: неправильное значение href для meta поля 'agent'
+                    [code] => 2013
+                    [moreInfo] => https://online.moysklad.ru/api/remap/1.1/doc#обработка-ошибок-2013
+                    [line] => 1
+                    [column] => 234
+                )
+
+        )
+
+)
+Array
+(
+    [name] => Рашид
+    [organization] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/organization/a909f9b9-b4fa-11e9-912f-f3d400027bbd
+                    [type] => organization
+                    [mediaType] => application/json
+                )
+
+        )
+
+    [agent] => Array
+        (
+            [meta] => Array
+                (
+                    [href] => https://online.moysklad.ru/api/remap/1.1/entity/counterparty/
+                    [type] => counterparty
+                    [mediaType] => application/json
+                )
+
+        )
+
+    [positions] => Array
+        (
+        )
+
+)
+Array
+(
+    [errors] => Array
+        (
+            [0] => Array
+                (
+                    [error] => Ошибка формата: неправильное значение href для meta поля 'agent'
+                    [code] => 2013
+                    [moreInfo] => https://online.moysklad.ru/api/remap/1.1/doc#обработка-ошибок-2013
+                    [line] => 1
+                    [column] => 234
+                )
+
+        )
+
+)

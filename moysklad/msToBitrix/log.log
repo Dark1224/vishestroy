@@ -1,0 +1,8 @@
+Array
+(
+)
+{"events":[{"meta":{"type":"customerorder","href":"https://online.moysklad.ru/api/remap/1.1/entity/customerorder/56e7925c-4c23-11ea-0a80-011f002513bb"},"action":"UPDATE","accountId":"a8da53d9-b4fa-11e9-9109-f8fc00001e19"}]}Array
+(
+    [ID] => 19
+)
+1
